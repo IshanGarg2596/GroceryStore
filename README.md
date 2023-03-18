@@ -1,6 +1,6 @@
 # GroceryStore
 
-An API and mern app for grocery store to make their own website.
+An API and mern app for grocery stores to make their own website.
 
 Both API and mern app can be used seperately.
 
